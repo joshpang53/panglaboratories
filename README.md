@@ -1,8 +1,5 @@
-<!doctype html>
+
 <html>
-  <head>
-    <title style="font-family:verdana;">Pang Laboratories</title>
-  </head>
   <body style="font-family:verdana;">
 <h1>Pang Laboratories</h1>
     <p>About us</p>
